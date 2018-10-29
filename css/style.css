@@ -35,7 +35,7 @@ div.button-cont, .table-cont{
 i{
   cursor: pointer;
 }
-i:hover{
+td i:hover{
   color: blue;
 }
 
@@ -52,4 +52,8 @@ i:hover{
 }
 .sticky-footer{
   background: rgba(0, 0, 0, 0.1);
+}
+
+.sticky-footer .text-center {
+  margin-bottom: 40px;
 }

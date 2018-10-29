@@ -1,0 +1,4 @@
+1. Eliminar el título crud de la última columna
+2. eliminar flechas del crud del header inferior
+3. poner un margin bottom en el cont del footer para que el enlace al Github funcione
+4. cambiar cruz azul hover en el botón de add
