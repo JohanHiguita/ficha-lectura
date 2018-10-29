@@ -1,0 +1,55 @@
+body{
+  background: rgba(0, 0, 0, 0.01);
+}
+.title{
+  font-family: 'Dancing Script', cursive;
+  color: white;
+
+}
+
+.title-cont{
+  text-align: center;
+  margin-bottom: 20px;
+  background: rgba(0, 0, 0, 0.7);
+}
+.table-cont{
+
+}
+
+.btn-circle {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 12px;
+  line-height: 1.428571429;
+  border-radius: 15px;
+}
+
+div.button-cont, .table-cont{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+i{
+  cursor: pointer;
+}
+i:hover{
+  color: blue;
+}
+
+
+.crud-td{
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+  border: none !important;
+}
+
+.crud-td i{
+  font-size: 18px;
+}
+.sticky-footer{
+  background: rgba(0, 0, 0, 0.1);
+}
